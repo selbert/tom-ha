@@ -1,0 +1,22 @@
+{
+  "Toggles" :
+    {
+      "80:e4:da:71:55:bd" : [
+        "Bedroom",
+        "Hallway"
+      ],
+      "80:e4:da:71:71:4d": [
+        "Secret",
+        "Hallway"
+      ],
+      "80:e4:da:71:72:0c": [
+        "Entrance",
+        "Living Room"
+      ],
+      "80:e4:da:71:72:09": [
+        "Sofa",
+        "Kitchen",
+        "Hallway"
+      ]
+    }
+}
