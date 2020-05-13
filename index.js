@@ -61,7 +61,7 @@ function listenToButton(bdAddr, buttonUpCallBack) {
   });
 }
 var toggleConfig = config.get("Toggles");
-
+console.dir(toggleConfig);
 function buttonClicked(button) {
   sendLightMethod("power_on",toggleConfig[button]); 
 }
